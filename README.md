@@ -1,0 +1,1 @@
+es una app para mirar libros atraves de consola si estan registrado si son nuevos si estan o no vivos y yiene el siguiente menu![image](https://github.com/user-attachments/assets/29e568cb-629a-4aa8-a8f5-57a6979632d7)
